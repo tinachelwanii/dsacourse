@@ -1,0 +1,71 @@
+Simple Sieve Algorithm
+Time Complexity : O(n log ( log n))
+Space Complexity : O(n)
+
+Incremental Sieve Algorithm
+Time Complexity: O( n log log n)
+Space Complexity: O(n)
+
+Segmented Sieve Algorithm
+Space Complexity  :O (underroot n) 
+
+Euler ’s Phi Function
+Time Complexity :O(underroot n)  
+Space Complexity: O(1)
+
+Euclid’s Algorithm
+Time Complexity :O ( log min(a,b))
+Space Complexity:O(1)
+
+Chinese Remainder Theorem
+Time Complexity: O(n^2)
+Space Complexity: O(n)
+
+Strobogrammatic Number
+Time Complexity:O(n)
+Space Complexity:O(1)
+
+Alice Apple Tree
+Time Complexity:O(1)
+Space Complexity:O(1)
+
+Toggle the Switch
+Time Complexity:O(log n)
+Space Complexity:O(n)
+
+Binary Palindrome
+Time Complexity : O(n)
+Space Complexity : O(1)
+
+Swapping two nibbles in a byte
+Time Complexity:O(1)
+Space Complexity:O(1)
+
+Booth’s Algorithm
+Time Complexity:O(n)
+Space Complexity:O(1)
+
+Karatsuba Algorithm
+Time Complexity: O( n^1.59)
+Space Complexity: O(n)
+
+
+Longest Sequence after flipping in a byte
+Time Complexity : O( log n)
+Space Complexity: O(1)  
+
+Max Product Subarray
+Time Complexity:O(n)
+Space Complexity:O(1)
+
+Block Swap Algorithm
+Time Complexity:O(n)
+Space Complexity:O(log n)
+
+Maximum Sum Of Hour Glass
+Time Complexity: O(r*c)
+Space Complexity: O(1)
+
+
+
+
